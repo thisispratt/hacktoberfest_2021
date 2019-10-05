@@ -1,16 +1,19 @@
-#include<stdio.h>
 #include<conio.h>
+#include<stdio.h>
+
 void main()
 {
-    int a,b,q,r;
     clrscr();
-    printf("Enter a number :");
+    int a,b,c,d;
+    printf("Enter first number: ");
     scanf("%d",&a);
-    printf("\n Enter the number you want to divide the first number with :");
+    printf("Enter second number: ");
     scanf("%d",&b);
-    r=a%b;
-    q=a/b;
-    printf("\n The remainder is : %d",r);
-    printf("\n The quotient is :%d",q);
+    c=a/b;
+    d=a%b;
+    printf("Quotient is: %d \n",c);
+    printf("Remainder is: %d \n",d);
+   
     getch();
+
 }
