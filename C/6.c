@@ -11,8 +11,8 @@ void main()
     scanf("%d",&b);
     c=a/b;
     d=a%b;
-    printf("Quotient is: %d \n",c);
-    printf("Remainder is: %d \n",d);
+    printf("Quotient is: %d \n",c);    // quotient
+    printf("Remainder is: %d \n",d);   // remainder
     getch();
 
 }
