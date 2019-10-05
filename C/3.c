@@ -7,7 +7,7 @@ void main()
     printf("Enter the first number :");
     scanf("%d",&a);
     printf("Enter the second number :");
-    scanf("%d".&b);
+    scanf("%d",&b);
     sum=a+b;
     printf("The sum is = %d",sum);
     getch();
