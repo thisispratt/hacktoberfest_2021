@@ -13,6 +13,7 @@ void main()
     d=a%b;
     printf("Quotient is: %d \n",c);
     printf("Remainder is: %d \n",d);
+   
     getch();
 
 }

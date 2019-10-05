@@ -1,12 +1,9 @@
 #include<iostream>
 
-int main()
+void main()
 {
     using namespace std;
 
     cout<<"Hello, World!";
     //prints hello world
-    
-    return 0;
-
 }
