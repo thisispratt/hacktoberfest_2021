@@ -1,6 +1,7 @@
 # hacktoberfest_2019
 
-                        Solve any question and send a pull request.
+                 Solve any question and send a pull request.
+                 Make sure you submit the program in the correct folder. (i.e. C programs in C folder and C++ program in C++ folder)
 
 # C / C++ Questions
                                             
