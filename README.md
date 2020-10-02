@@ -1,10 +1,41 @@
 # Welcome to hacktoberfest_2020
 
-              
-       Solve any question and send a pull request.
-       Make sure you submit the program in the correct folder. (i.e. C programs in C folder and C++ program in C++ folder)
-               
+<img alt="HF2020" src="https://github.com/thisispratt/hacktoberfest_2020/blob/master/public/HF2020%20Events%20640x360%20Centered.png">
+
+### :octocat: Open your first pull request for the Hacktoberfest 2020 challenge.
+
+
+## How to make your first pull request?
+
+### Step#1: Star this repo 🌟
+<img width="100%" alt="Star this repo for hacktoberfest" src="https://github.com/thisispratt/hacktoberfest_2020/blob/master/public/hacktob_star.JPG">
+
+### Step#2: Show some love 😄 
+<a href="https://github.com/thisispratt" aria-label="Follow @thisispratt on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@thisispratt-green?style=for-the-badge"  />
+</a>
+<br>
+(Follow me on github - this motivates me to review & merge pull requests quicker.) 
+
+### Step#3: [Fork](https://github.com/thisispratt/hacktoberfest_2020/fork) and clone the repository.
+
+### Step#4: Solve any question, make sure you solve the program in the correct folder. (i.e. C programs in C folder and C++ program in C++ folder, you can also make a new folder for another language if it doesnot exists)
+       
+### Step#5: Add your files `git add -A`
+
+### Step#6 Commit your changes `git commit -m  "commit message here"`
+
+### Step#7: Push to your fork `git push` and [submit a pull request](https://github.com/thisispratt/hacktoberfest_2020/compare).
                  
+### Step#8: Pat your self on the back and wait for your pull request to be reviewed and merged.
+
+## Are you a Software Developer💻?
+This repo is open to contributions (in the form of questions) from Software Developers.
+
+## What is Hacktoberfest?
+A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and GitHub to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+
+[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+
 
 # C / C++ Questions
                                             
