@@ -36,7 +36,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-
+//THE QUICK BROWN FOX JUMPS OVER THE LAZY LITTLE DOG
 # C / C++ Questions
                                             
       1. C "Hello, World!" Program
