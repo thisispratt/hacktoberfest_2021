@@ -1,3 +1,4 @@
+/*Instead of using exit,i put the final condition inside else to avoid 2 outputs*/
 #include <stdio.h>
 int main() {
     int n, i, k=0;
@@ -13,12 +14,10 @@ int main() {
             break;
         }
     }
+    if (k==0)
+          printf("%d is a prime number.", n);
+    else
+          printf("%d is not a prime number.", n);
   }
-      if (k==0)
-            printf("%d is a prime number.", n);
-      else
-            printf("%d is not a prime number.", n);
-
-
     return 0;
 }
