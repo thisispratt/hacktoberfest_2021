@@ -1,9 +1,13 @@
-/*Instead of using exit,i put the final condition inside else to avoid 2 outputs*/
+/* C Program to Check Whether a Number is Prime or Not */
+
 #include <stdio.h>
 int main() {
+    //variable declaration
     int n, i, k=0;
+    //taking input from the user.
     printf("Enter a positive integer: ");
     scanf("%d", &n);
+    //logic to check whether the input no. is prime or not.
     if (n==1) {
         printf("1 is neither prime nor composite.");
     }
