@@ -100,7 +100,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       59. Program to Sort Elements in Lexicographical Order (Dictionary Order)
       60. Program to Store Information of a Student Using Structure
       61. Program to Add Two Distances (in inch-feet) System Using Structures
-      62.Crogram to Add Two Complex Numbers by Passing Structure to a Function
+      62. Program to Add Two Complex Numbers by Passing Structure to a Function
       63. Program to Calculate Difference Between Two Time Periods
       64. Program to Store Information of Students Using Structure
       65. Program to Store Information Using Structures with Dynamically Memory Allocation
