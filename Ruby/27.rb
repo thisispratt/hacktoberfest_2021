@@ -1,15 +1,18 @@
 print "Enter the number to check if it's a palindrome!:\t"
-num = $stdin.gets.chomp.to_i
-num2 = num
-rev = 0
+num = $stdin.gets.chomp.to_s
+num = num.split(//)
+num2 = num.reverse
+pos = 0
+flag = 1
 
-while(num > 0)
-  digit = num % 10    
-  rev = rev * 10 + digit
-  num = num/10
+for i in num
+  if num[pos] != num2[pos] 
+    flag = 0
+  end
+  pos = pos+1
 end
 
-if(rev == num2)
+if(flag == 1)
   print "\nThe entered number is a palindrome"
 
 else
