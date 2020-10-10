@@ -11,11 +11,11 @@ int main()
 	cin>>len;
 	a=0;
 	b=1;
-	
+	cout<<a<<"\n"<<b<<"\n";
 	for(LL i=0; i<len; i++)
 	{
 	    LL c = a+b;
-	    cout<<a<<"\n"<<b<<"\n"<<c<<endl;
+	    cout<<c<<endl;
 	    a=b;
 	    b=c;
 	}
