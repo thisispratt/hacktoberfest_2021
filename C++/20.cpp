@@ -2,19 +2,20 @@
 #include <iostream>
 using namespace std;
 
-#define ll long long
+#define LL long long
 
 int main() 
 {
-    ll len;
+   	LL len,a,b;
 	cout<<"Enter length of the Fibonacci Sequence: "<<endl;
 	cin>>len;
-	ll a=0,b=1;
+	a=0;
+	b=1;
 	
-	for(ll i=0; i<len; i++)
+	for(LL i=0; i<len; i++)
 	{
-	    ll c = a+b;
-	    cout<<a<<" "<<b<<" "<<c<<endl;
+	    LL c = a+b;
+	    cout<<a<<"\n"<<b<<"\n"<<c<<endl;
 	    a=b;
 	    b=c;
 	}
