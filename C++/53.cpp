@@ -5,7 +5,9 @@ using namespace std;
 
 int main() {
     map<char,int> frequency_map;
-    string s = "kjhkjhfauuoilnnbmvjhuyacgujk";
+    string s;
+    cout<<"Enter a String:\n";
+    cin>>s;
     for(char c : s){
         frequency_map[c]++;
     }
