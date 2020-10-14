@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     string str, res = "";
-    cin >> str;
+    getline(cin, str);
     int index = 0, len = str.length();
     for (index = 0; index < len; index++)
     {
