@@ -1,5 +1,7 @@
 <?php
 /**
+ * print an integer (entered by user)
+ * 
  * php can read your text on console with readline.
  * next, we can output the val
  * 
