@@ -1,13 +1,8 @@
+
 #  9.  Program to Swap Two Numbers
 
-#initializing the numbers to be swapped
-a = 10
-b = 20
-print('Before Swapping:-')
-print("a:",a,"b:",b)
+def swap(a, b):
+    a,b = b,a    # The value of 'b' is assigned to 'a' and vice versa.
+    return a,b
 
-#swapping the numbers
-a,b = b,a
-#Now,printing the swapped numbers
-print('After Swapping:-')
-print("a:",a,"b:",b)
+print(swap(10,20))
