@@ -1,6 +1,9 @@
 # 55. Program to Remove all Characters in a String Except Alphabets
 
-String = "Program to Remove all characters in a String @@@@$^*(@^(*^%# except Al%(*&phab*(@$ets"
+String = input("Enter a string: ")
+
+# >>>Enter a string: Program to Remove all characters in a String @@@@$^*(@^(*^%# except Al%(*&phab*(@$ets
+#	 ProgramtoRemoveallcharactersinaStringexceptAlphabets 
 
 alphabets_up = [chr(alpha) for alpha in range(65, 91)]
 alphabets_low = [chr(alpha) for alpha in range(97, 123)]
