@@ -3,7 +3,7 @@
 
 import java.io.*;
  
-class Main{
+class Q9{
     public static void main(String[] args)
     {
         int x = 10;
