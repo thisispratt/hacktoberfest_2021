@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class Main {
+public class q28 {
 public static void main(String[]args) {
 	Scanner sc=new Scanner(System.in);
 	int no=sc.nextInt(); 
