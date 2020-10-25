@@ -9,6 +9,7 @@ int main()
 {
   long long int n;
   double sum=0;
+  cout<<"PLEASE ENTER THE LENGTH OF THE ARRAY"<<endl;
   cin>>n;   //Taking input of how many numbers the array will consist of
   if(n<=0)
   {
