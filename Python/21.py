@@ -3,8 +3,8 @@ def GCD(a,b):
         return a
     r=a%b
     return GCD(b,r)
-numbers=input("Enter two numbers:")
+numbers=input("Enter 2 numbers:")
 nums=numbers.split()
 a=int(nums[0])
 b=int(nums[1])
-print("GCD of 2 numbers:"GCD(a,b))
+print("GCD of 2 numbers:",GCD(a,b))
