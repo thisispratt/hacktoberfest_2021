@@ -4,7 +4,7 @@ def GCD(a,b):
     r=a%b
     return GCD(b,r)
 numbers=input()
-nums=numbers.split()
+nums=numbers.split("Enter two numbers:")
 a=int(nums[0])
 b=int(nums[1])
-print((a*b)//GCD(a,b))
+print("lcm of two numbers:",(a*b)//GCD(a,b))
