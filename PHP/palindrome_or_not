@@ -1,0 +1,22 @@
+27. Program to Check Whether a Number is Palindrome or Not.
+
+<?php
+$n=434;
+$rev=0;
+$r;
+$num=$n;
+while($n>0)
+{
+$r=$n%10;
+$rev=$rev*10+$r;
+$n=floor($n/10);
+}
+if($rev==$num)
+{
+echo "Number is palindrome";
+}
+else
+{
+echo "Number is not palindrome";
+}
+?>
