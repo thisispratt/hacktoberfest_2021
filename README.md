@@ -1,6 +1,6 @@
 # Welcome to hacktoberfest_2021
 
-<img alt="HF2020" src="https://github.com/thisispratt/hacktoberfest_2020/blob/master/public/HF2020%20Events%20640x360%20Centered.png">
+<img alt="HF2020" style="width: 1200px; height=800px;"src="https://github.com/thisispratt/hacktoberfest_2020/blob/master/public/Hacktoberfest_final_2color-06%20copy.png">
 
 ### :octocat: Open your first pull request for the Hacktoberfest 2020 challenge.
 
