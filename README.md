@@ -2,7 +2,7 @@
 
 <img alt="HF2020" style="width: 1200px;" src="https://github.com/thisispratt/hacktoberfest_2020/blob/master/public/Hacktoberfest_final_2color-06%20copy.png">
 
-### :octocat: Open your first pull request for the Hacktoberfest 2020 challenge.
+### :octocat: Open your first pull request for the Hacktoberfest 2021 challenge.
 
 
 ## How to make your first pull request?
@@ -19,6 +19,7 @@
 ### Step#3: [Fork](https://github.com/thisispratt/hacktoberfest_2020/fork) and clone the repository.
 
 ### Step#4: Solve any question, make sure you solve the program in the correct folder. (i.e. C programs in C folder and C++ program in C++ folder, you can also make a new folder for another language if it doesnot exists)
+#### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Note: Do make sure that you name your files according to the question no.(for ex: If you solved question no. 19 then your file name should be 19.cpp or 19.js etc)
        
 ### Step#5: Add your files `git add -A`
 
