@@ -12,6 +12,8 @@ public class Q10 {
             System.out.println("Number is even");
         else
             System.out.println("Number is odd");
+
+        scanner.close();
     }
 
 }
