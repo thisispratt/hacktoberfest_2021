@@ -1,4 +1,5 @@
-# Welcome to hacktoberfest_2021
+# Welcome to hacktoberfest_2021 (Sad to see that someone from our Open source community has reported this repo as the one which is not following values of hacktoberfest. Even when we are strictly following it and not merging any spam PR.)
+(Sorry to say but I won't be merging any PR now on this repo. Thankyou everyone for your support 🙏)
 
 <img alt="HF2020" style="width: 1200px;" src="https://github.com/thisispratt/hacktoberfest_2020/blob/master/public/Hacktoberfest_final_2color-06%20copy.png">
 
