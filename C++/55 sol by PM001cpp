@@ -1,0 +1,17 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    string s;
+     //alloting memory to store a string
+     cout<<"Enter a string: "<<endl;
+    cin>>s; //taking string from user
+    //now we use a loop to find out the non alphabets and we would simply ignore them and only include ////alphabets in our new string, whose name is final!
+    string final="";
+    for(long long i=0;i<s.size();i++)
+    {
+        if(isalpha(s[i])) final+=s[i];
+    }
+    cout<<"the string containing only the alphabets is : "<<final;
+
+}
