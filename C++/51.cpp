@@ -30,7 +30,7 @@ int main()
     
     cout<<"After swap: a="<<a<<" b="<<b<<" c="<<c<<endl;
 
-    cout<<"\n";
-    
+    cout<<"\n"; 
+
     return 0;
 }
